@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "kernel",
-      "repo": "https://github.com/Alts-Project/kernel_xiaomi_ysl_4.19",
-      "branch": "fts_mainline",
+      "repo": "https://github.com/MI8953-Project/android_kernel_xiaomi_ysl",
+      "branch": "dts/audio",
       "device": "ysl",
       "defconfig": "vendor/msm8953-perf_defconfig"
   },
