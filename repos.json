@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "kernel",
-      "repo": "https://github.com/Alts-Project/kernel_xiaomi_vince",
+      "repo": "https://github.com/Alts-Project/kernel_xiaomi_vince-test",
       "branch": "main",
       "device": "vince",
-      "defconfig": "vince-perf_defconfig"
+      "defconfig": "vince_defconfig"
   },
     "toolchains": [
       {
