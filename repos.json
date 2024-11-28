@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "kernel",
-      "repo": "https://github.com/Alts-Project/kernel_xiaomi_ysl",
-      "branch": "alts/14/master",
-      "device": "ysl",
-      "defconfig": "ysl_defconfig"
+      "repo": "https://github.com/Alts-Project/kernel_msm-4.9",
+      "branch": "a11/master",
+      "device": "snow",
+      "defconfig": "mi8953_defconfig"
   },
     "toolchains": [
       {
