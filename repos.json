@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "kernel",
-      "repo": "https://github.com/Alts-Project/kernel_msm-4.9",
+      "repo": "https://github.com/Alts-Project/kernel_xiaomi-mi8953",
       "branch": "a11/master",
       "device": "snow",
       "defconfig": "mi8953_defconfig"
